@@ -3,4 +3,3 @@ face_recognition
 cv2
 numpy
 sqlite3
-io
